@@ -1,6 +1,0 @@
-blank_issues_enabled: false
-# Optional: a contact link to the Discord channel, once it has a stable URL.
-# contact_links:
-#   - name: "Question, not a task yet"
-#     url: "<Discord channel link>"
-#     about: "Ask in #software-and-autonomy. Open an issue once it is a piece of work."
